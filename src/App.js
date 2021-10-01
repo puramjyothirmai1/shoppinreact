@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React from jyothirmai
+          if u dont want jfo
         </a>
       </header>
     </div>
